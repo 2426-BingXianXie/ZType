@@ -9,23 +9,6 @@ An adrenaline-pumping typing game where players intercept falling words by typin
 
 ---
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Game Mechanics](#game-mechanics)
-- [Technology Stack](#technology-stack)
-- [System Architecture](#system-architecture)
-- [Installation & Setup](#installation--setup)
-- [How to Play](#how-to-play)
-- [Implementation Details](#implementation-details)
-- [Game Design](#game-design)
-- [Testing](#testing)
-- [Skills Demonstrated](#skills-demonstrated)
-- [Academic Integrity](#academic-integrity)
-- [Contact](#contact)
-
----
-
 ## Overview
 
 ZType is a typing game inspired by classic shoot-'em-up mechanics, challenging players to type falling words before they reach the bottom of the screen. The game combines fast reflexes with typing accuracy, providing an engaging way to improve typing skills while having fun.
