@@ -2,11 +2,6 @@
 
 An adrenaline-pumping typing game where players intercept falling words by typing them accurately before they reach the bottom of the screen. Features progressive difficulty scaling, real-time word generation, and score tracking for an engaging typing challenge experience.
 
-**Author**: BingXian Xie  
-**Course**: CS2510 - Fundamentals of Computer Science II  
-**Institution**: Northeastern University  
-**Semester**: Spring 2025
-
 ---
 
 ## Overview
